@@ -1,4 +1,4 @@
-   # Lista de Exercícios de Python com Versionamento
+   # [AT03] Exercícios de fixação em Python
 
    ## Aluna: Nicole Gonçalves Baldoino
    ## EMDS 2025/1 M1
