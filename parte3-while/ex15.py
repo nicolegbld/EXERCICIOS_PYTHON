@@ -1,4 +1,4 @@
-numero = float(input("Informe um número(0 para parar): "))
+
 positivo = 0
 
 while True:
@@ -7,6 +7,7 @@ while True:
     elif numero == 0:
         break
 
+    numero = float(input("Informe um número(0 para parar): "))
     print("Quantidade de números positivos: " , positivo)
 
     
