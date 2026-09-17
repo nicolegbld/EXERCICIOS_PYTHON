@@ -6,4 +6,4 @@
 
    ## Descrição: Nessa atividade estamos testando nossa habilidade com a linguagem Python. Atividade realizada no dia 17/09/2026.
 
-   ## Como executar: O que estiver escrito 
+   ## Como executar: 
